@@ -1,0 +1,78 @@
+
+div.outlinebox{
+  background-color: orange;
+  padding: 30px -30px; 
+
+}
+
+.clearfix {
+  overflow: auto;
+  height: auto;
+  width: 100%;
+  
+}
+
+div.description{
+  overflow: auto;
+  float: left;
+  margin-left: 10%;
+  margin-top: 1%;
+  width: 20vw;
+  font-size: 1vw; 
+}
+
+div.description1{
+  margin-left: 40%;
+  margin-top: 45%;
+  width: 20vw;
+  font-size: 1vw; 
+  text-align: center;
+}
+
+.price{
+  font-size: 2vw;
+}
+
+.header{
+  height: auto;
+  width: 100%;
+  text-align: center;
+  font-size: 5vw;
+}
+
+p.margin{
+  margin-top: 10%;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  font-size: 2vw;
+  width:100%;
+  height: auto;
+}
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.footer{
+  background-color: #bdbdbd;
+  border-color: black;
+  outline-style: ridge;
+  outline-width: 1px;
+
+}
+
+
+
